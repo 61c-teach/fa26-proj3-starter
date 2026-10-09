@@ -1,1 +1,5 @@
-61C Project 3: CS61CPU
+# CS61CPU
+
+Look ma, I made a CPU! Here's what I did:
+
+-
